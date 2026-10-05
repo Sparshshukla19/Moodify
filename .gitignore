@@ -44,3 +44,5 @@ uploads/
 
 # Misc
 *.swp
+
+/songs_moodify
